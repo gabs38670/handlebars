@@ -1,0 +1,27 @@
+body{
+    background-color: #ffff;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+}
+ul{
+    background-color: rgb(183, 183, 183);
+    width: 400px;
+    margin: 0 auto;
+    list-style: none;
+    padding-left: 0.5rem;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+}
+
+
